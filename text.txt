@@ -1,3 +1,7 @@
 hello world 
 Made this change in local repository!
+<<<<<<< HEAD
 Is this working?
+=======
+Someone else made a modification.
+>>>>>>> 4939a056c50f35d1ce9618d50468f32f6a58826e

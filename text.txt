@@ -3,3 +3,4 @@ Made this change in local repository!
 Is this working?
 Someone else made a modification.
 Another modification by someone else.
+more modifications to file by someone else.
